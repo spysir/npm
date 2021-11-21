@@ -1,7 +1,7 @@
 # npm
 
 
-default 
+default login
 
 Email
 admin@example.com
